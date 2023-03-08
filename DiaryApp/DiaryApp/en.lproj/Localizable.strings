@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DiaryApp
+
+  Created by Oğuzhan Deniz on 14.09.2022.
+  
+*/
+
+"app_title" = "Diary";
+"edit" = "Edit";
+"add" = "Add";
+"list_tab" = "List";
+"other_tab" = "Settings";
+"add_diary" = "Add Diary";
+"diary_title" = "Title";
+"diary_description" = "Description";
+"emoji" = "Emoji";

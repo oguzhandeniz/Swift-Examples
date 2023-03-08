@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  DiaryApp
+
+  Created by Oğuzhan Deniz on 14.09.2022.
+  
+*/
+
+"app_title" = "Günlük";
+"edit" = "Düzenle";
+"add" = "Ekle";
+"list_tab" = "Liste";
+"other_tab" = "Ayarlar";
+"add_diary" = "Günlük Ekle";
+"diary_title" = "Başlık";
+"diary_description" = "Açıklama";
+"emoji" = "Emoji";
+
